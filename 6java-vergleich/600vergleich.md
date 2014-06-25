@@ -1,4 +1,7 @@
 # Java - Ordnung, Gleichheit und Hash
+---
+
+[Zurück](../README.md)
 
 * Sie können beispielhaft die Unterscheidung von "natürlicher Ordnung" und "spezieller Ordnung" erläutern.
 * Sie können die Beziehung zwischen der Methode equals() und den Interfaces Comparable und Comparator erläutern.
