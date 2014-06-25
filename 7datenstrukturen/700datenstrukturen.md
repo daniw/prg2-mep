@@ -1,4 +1,4 @@
-# Datenstrukturen:
+# Datenstrukturen
 
 * Sie kennen grundlegende Datenstrukturen und können diese einander gegenüberstellen.
 * Sie können den Nutzen des Java Collection Framework erläutern.
