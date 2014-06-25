@@ -81,6 +81,7 @@
     * die Keywords ``wait()`` und ``notify()``
 * Producer/Consumer mit Threads (die Lösung)
 * Das Singleton Entwurfsmuster
+
 ---
 
 ## DAT
