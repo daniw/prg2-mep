@@ -1,0 +1,14 @@
+# Java - GUI Programmierung
+
+* Sie können prinzipiell den Aufbau eines GUI erklären.
+* Sie können prinzipiell die Bildschirmausgabe in Windowssystemen erklären.
+* Sie kennen die Merkmale eines sequentiellen und ereignisgesteuerten Programms.
+* Sie können das Zusammenspiel zwischen Event-Quelle und Event-Listener erklären.
+* Sie können mindestens je zwei elementare GUI-Komponenten, Container und 
+Layout-Manager benennen und identifizieren.
+* Sie kennen Vor- und Nachteile von Swing.
+* Sie kennen wichtige Komponenten von Swing und deren Einsatzmöglichkeit.
+* Sie können ein Java-Programm mit GUI (AWT und Swing) und Event-Handling 
+analysieren und interpretieren.
+* Sie verstehen das Konzept der inneren Klassen und können diese für die 
+Implementierung ereignisgesteuerter Java-Applikationen einsetzen.
