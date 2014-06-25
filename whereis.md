@@ -1,4 +1,4 @@
-# Kapitelübersicht von 
+# Kapitelübersicht von OOP, DAT und NWP
 ---
 
 [Zurück](../README.md)
@@ -84,7 +84,7 @@
 
 ---
 
-## DAT
+## Datenstrukturen
 
 ### DAT1
 * Einführung und Motivation
@@ -127,7 +127,7 @@
 
 ---
 
-## NWP
+## Nwtzwerkprogrammierung
 
 ### NWP1
 * Nethwerk Konzepte
