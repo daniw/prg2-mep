@@ -12,6 +12,7 @@
 cd $PWD
 
 # create folder for html files
+rm -rf html
 mkdir html
 for i in [0-9]*/; do mkdir html/$i; done
 
