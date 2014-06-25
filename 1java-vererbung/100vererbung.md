@@ -4,7 +4,7 @@
 
 [Zurück](../README.md)
 
-* Sie kennen Java spezifische Eigenschaften der Vererbung.
+* [Sie kennen Java spezifische Eigenschaften der Vererbung.](101vererbung.md)
 * Sie verstehen das Konzept von abstrakten Klassen und können diese 
 einsetzen.
 * Sie verstehen das Konzept von abstrakten Methoden und können diese
