@@ -8,6 +8,6 @@ Die folgende Liste liefert eine übersicht der behandelten Themen.
 * [Java - Threads](4java-threads/400threads.md)
 * [Java - GUI](5java-gui/500gui.md)
 * [Java - Ordnung, Gleichheit und Hash](6java-vergleich/600vergleich.md)
-* [Java - Datenstrukturen](7java-datenstrukturen/700datenstrukturen.md)
+* [Java - Datenstrukturen](7datenstrukturen/700datenstrukturen.md)
 * [Java - Netzwerk Programmierung](8netzwerk/800netzwerk.md)
 * [Software Engineering aus dem Projekt](9softwareengineering/900softwareengineering.md)
