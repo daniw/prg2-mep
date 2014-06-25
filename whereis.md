@@ -1,7 +1,7 @@
 # Kapitelübersicht von OOP, DAT und NWP
 ---
 
-[Zurück](../README.md)
+[Zurück](README.md)
 
 ## Objektorientierte Programmierung
 
