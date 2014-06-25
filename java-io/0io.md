@@ -1,0 +1,11 @@
+# Java - Input/Output
+
+* Sie können für beide Arten von Datenströmen je zwei Anwendungen 
+angeben.
+* Sie können den Unterschied zwischen binären Dateien und Text 
+Dateien erklären.
+* Sie können den Unterschied zwischen sequentiellem und wahlfreiem 
+Datei-Zugriff erläutern.
+* Sie kennen überblicksmässig einige Java-Klassen für das Datei-Handling.
+* Sie kennen das Prinzip und die Eigenheiten der Objekt-Serialisierung.
+* Sie kennen das Konzept eines Marker Interfaces.
