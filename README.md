@@ -1,4 +1,4 @@
-prg2-stoff
-==========
+# Lernziele für die PRG2-MEP
+Die folgende Liste liefert eine übersicht der behandelten Themen.
 
-Stoffabgrenzung PRG2
+* [Objektorientierte Programmierung](oop/0oop.md)

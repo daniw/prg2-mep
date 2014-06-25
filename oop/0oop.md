@@ -1,0 +1,7 @@
+# Objektorientierte Programmierung
+
+* Sie können mindestens drei Vorteile sowie einen gewichtigen Nachteil 
+der Vererbung erklären
+* Sie können zwischen statischen und dynamischem Typ unterscheiden.
+* Sie können Einfach- und Mehrfachvererbung erläutern.
+* Sie können Vererbungsbeziehungen im Klassendiagramm darstellen.
