@@ -1,5 +1,5 @@
 # Lernziele für die PRG2-MEP
-Die folgende Liste liefert eine übersicht der behandelten Themen.
+Die folgende Liste liefert eine Übersicht der behandelten Themen.
 
 * [Objektorientierte Programmierung](0oop/000oop.md)
 * [Java - Vererbung](1java-vererbung/100vererbung.md)
