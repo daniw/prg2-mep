@@ -15,4 +15,4 @@ Java-Code erklären und anwenden.
 * Sie können Substitution und Casting korrekt anwenden.
 * Sie können bestimmen, welche Implementation für einen bestimmten 
 Methodenaufruf zur Ausführung gelangt.
-* Sie wissen, wie ''toString()'' arbeitet und angepasst werden kann.
+* Sie wissen, wie ``toString()`` arbeitet und angepasst werden kann.
