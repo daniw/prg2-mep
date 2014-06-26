@@ -12,9 +12,8 @@
 cd $PWD
 
 # create folder for html files
-rm -rf html
-mkdir html
-for i in [0-9]*/; do mkdir html/$i; done
+mkdir -p html
+for i in [0-9]*/; do mkdir -p html/$i; done
 
 # convert files from markdown to html and correct links to other files
 pandoc -s README.md > html/index.md.html
