@@ -4,6 +4,8 @@
 
 [Zurück](200exceptions.md)
 
+| Keyword   | Beschreibung                          |
+|-----------|---------------------------------------|
 | throws    | Signalisiert eine mögliche Excpetion  |
 | throw     | Löst eine Excpetion aus               |
 | try       | Behandlung des Normalfalls            |
