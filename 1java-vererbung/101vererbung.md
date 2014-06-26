@@ -14,7 +14,7 @@ bei der Vererbung Konflikte.
 
 * Ein Interface kann von mehreren Interfaces erben.
 ```java
-public interface Fiat implements Auto, Window, Radio {
+public interface Fiat extends Auto, Window, Radio {
 ...
 }
 ```
