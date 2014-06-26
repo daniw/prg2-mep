@@ -127,7 +127,7 @@
 
 ---
 
-## Nwtzwerkprogrammierung
+## Netzwerkprogrammierung
 
 ### NWP1
 * Nethwerk Konzepte
