@@ -17,3 +17,6 @@ Die folgende Liste liefert eine Übersicht der behandelten Themen.
 
 Um zu sehen, in welchem Kapitel welches Thema behandelt wird, kann die
 [Themenübersicht](whereis.md) betrachtet werden.
+
+Der [Fragekatalog](fragen.md) biete eine Übersicht an aktuellen Unklarheiten 
+zu den Lernzielen.
