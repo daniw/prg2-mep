@@ -4,18 +4,45 @@
 
 [Zurück](200exceptions.md)
 
-#### Error (unchecked)
+#### Klassen
+
+##### Error (unchecked)
 
 * Systemfehler die vom Programm nicht korrigiert werden können.
 
-#### Exception (checked)
+##### Exception (checked)
 
 * Programmfehler die behandelt/abgefangen werden müssen.
 
-#### Runtime Exception (unchecked)
+##### Runtime Exception (unchecked)
 
 * Programmfehler die (freiwillig) behandelt werden dürfen.
 * Unchecked Exceptions müssen nicht mit ``throws`` signalisiert werden.
 
+#### Klassenhierarchie bei Exceptions
+
+	        +---------+                            
+	        |Throwable|                            
+	        +---------+                            
+	             ^        
+		     |                         
+	     +-------+----------+                      
+	     |                  |                      
+	+----+----+        +----+----+                 
+	|  Error  |        |Exception|                 
+	+---------+        +---------+                 
+	                        ^       
+				|               
+	           +------------+-----------+          
+	           |                        |          
+	  +--------+---------+     +--------+-------+  
+	  |MyCheckedException|     |RuntimeException|  
+	  +------------------+     +----------------+  
+	                                    ^          
+	                                    |          
+	                         +----------+---------+
+	                         |MyUncheckedException|
+	                         +--------------------+
+	
 ---
 Siehe S.27
