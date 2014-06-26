@@ -15,7 +15,7 @@ mittels ``throws`` erreicht.
 
 ##### Beispiel für Weitergabe
 ```java
-public void myMethod() thorws IllegalArgumentException {
+public void myMethod() throws IllegalArgumentException {
 	...
 }
 ```
