@@ -4,4 +4,5 @@
 
 [Zurück](700datenstrukturen.md)
 
-
+---
+Siehe DAT1 S.33
