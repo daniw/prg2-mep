@@ -19,30 +19,5 @@
 * Programmfehler die (freiwillig) behandelt werden dürfen.
 * Unchecked Exceptions müssen nicht mit ``throws`` signalisiert werden.
 
-#### Klassenhierarchie bei Exceptions
-
-	        +---------+                            
-	        |Throwable|                            
-	        +---------+                            
-	             ^        
-		     |                         
-	     +-------+----------+                      
-	     |                  |                      
-	+----+----+        +----+----+                 
-	|  Error  |        |Exception|                 
-	+---------+        +---------+                 
-	                        ^       
-				|               
-	           +------------+-----------+          
-	           |                        |          
-	  +--------+---------+     +--------+-------+  
-	  |MyCheckedException|     |RuntimeException|  
-	  +------------------+     +----------------+  
-	                                    ^          
-	                                    |          
-	                         +----------+---------+
-	                         |MyUncheckedException|
-	                         +--------------------+
-	
 ---
 Siehe S.27
