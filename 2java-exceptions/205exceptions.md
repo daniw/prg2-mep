@@ -5,7 +5,8 @@
 [Zurück](200exceptions.md)
 
 #### Klassenhierarchie bei Exceptions
-Es gibt verschiedene Arten von Exceptions. 
+Es gibt verschiedene Arten von Exceptions.
+ 
 * Exceptions aus der standard Bibliothek
 * Benutzerdefinierte Exceptions
 * Checked Exceptions (müssen behandelt werden) 
