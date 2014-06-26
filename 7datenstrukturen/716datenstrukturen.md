@@ -4,4 +4,5 @@
 
 [Zurück](700datenstrukturen.md)
 
-
+---
+Siehe LP S.15-17

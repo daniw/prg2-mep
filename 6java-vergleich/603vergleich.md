@@ -4,4 +4,5 @@
 
 [Zurück](600vergleich.md)
 
-
+---
+Siehe DAT6 S.16,21

@@ -4,3 +4,6 @@ html/
 # temporäre files
 *.swp
 
+CODE/*/build.xml
+CODE/*/manifest.mf
+CODE/*/nbproject
