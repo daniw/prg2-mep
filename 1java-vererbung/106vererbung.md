@@ -4,4 +4,5 @@
 
 [Zurück](100vererbung.md)
 
-
+---
+Siehe OOP2 S.19-22
