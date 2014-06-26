@@ -12,7 +12,7 @@
 
 * Programmfehler die behandelt/abgefangen werden müssen.
 
-#### Funtime Exception (unchecked)
+#### Runtime Exception (unchecked)
 
 * Programmfehler die (freiwillig) behandelt werden dürfen.
 * Unchecked Exceptions müssen nicht mit ``throws`` signalisiert werden.
