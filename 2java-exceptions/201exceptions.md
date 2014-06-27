@@ -19,7 +19,8 @@ so führt man diesen kritischen Abschnitt in einem ``try`` Block aus.
 Sollte dort eine Exception entstehen, wird der Code im ``catch`` Block
 ausgeführt und anschliessend (falls vorhanden) der ``finally`` Block.
 Falls keine Exception auftritt im ``try`` Block, so wird der Abschnitt
-im ``catch`` und ``finally`` einfach ausgelassen bei der Ausführung.
+im ``catch`` ausgelassen. Der Abschnitt im ``finally`` wird jedoch 
+immer ausgeführt!
 
 ---
 Siehe OOP6 S.10-11
