@@ -7,4 +7,5 @@ html/
 CODE/*/build.xml
 CODE/*/manifest.mf
 CODE/*/build
+CODE/*/dist
 CODE/*/nbproject
