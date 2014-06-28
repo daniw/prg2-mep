@@ -1,46 +1,3 @@
-### Sie können eine einfache Liste selber implementieren
-
----
-
-[Zurück](700datenstrukturen.md)
-
-#### Node für Strings
-
-```java
-package list;
-
-public class Node {
-	
-	private String data;
-	private Node next;
-	
-	public Node(Node n, String d) {
-		next = n;
-		data = d;
-	}
-	
-	public void setData(String d) {
-		data = d;
-	}
-	
-	public String getData() {
-		return data;
-	}
-	
-	public void setNext(Node n) {
-		next = n;
-	}
-	
-	public Node getNext() {
-		return next;
-	}
-	
-}
-```
-
-#### List mit obigen Nodes
-
-```java
 package list;
 
 public class List {
@@ -98,31 +55,3 @@ public class List {
 	}
 	
 }
-```
-
-#### Verwendung
-
-```java
-package list;
-
-public class Main {
-	
-	public static void main(String[] args) {
-		
-		String[] names = new String[]{"Richard", "Torvalds", "Babbage"};
-		
-		List users = new List();
-		
-		for(String i : names) {
-			users.insert(i);
-		}
-		
-		users.print();
-		
-	}
-	
-}
-```
-
----
-Siehe DAT1 S.23-28
