@@ -4,5 +4,12 @@
 
 [Zurück](700datenstrukturen.md)
 
+* HashMap
+* HashSet
+* ArrayList
+* LinkedList
+* TreeSet
+* TreeMap
+
 ---
 Siehe DAT5 S.27
