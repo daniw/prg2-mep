@@ -4,5 +4,7 @@
 
 [Zurück](400threads.md)
 
+![Lebenszyklus](../fig/4java-threads/lifecycle.png)
+
 ---
 Siehe OOP10 S.8
