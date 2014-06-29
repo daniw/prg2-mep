@@ -9,3 +9,9 @@ CODE/*/manifest.mf
 CODE/*/build
 CODE/*/dist
 CODE/*/nbproject
+
+# TeX, LaTeX, PDFLaTeX
+*.aux
+*.log
+*.out
+*.toc
