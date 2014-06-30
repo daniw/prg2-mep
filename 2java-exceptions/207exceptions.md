@@ -6,19 +6,19 @@
 
 #### Checked Exception
 Eine *checked Exception* ist eine Exception, welche zwingend behandelt 
-werden **muss**. Andernfalls reklamiert der Compiler.
+werden **muss**. Andernfalls reklamiert der Compiler. 
+
+Behandelt werden heisst, dass entweder ein ``throws`` im entsprechenden
+Methodenkopf deklariert wird **oder** ein ``try`` und ``catch`` 
+Block die Exception behandelt.
 
 #### Unchecked Exception
 Eine *unchecked Exception* ist eine Exception, welche behandelt **oder** 
-weitergegeben werden kann. Die Weitergabe der Exception (nach oben) wird
-mittels ``throws`` erreicht.
-
-##### Beispiel für Weitergabe
-```java
-public void myMethod() throws IllegalArgumentException {
-	...
-}
-```
+weitergegeben werden kann. Die Weitergabe geschieht automatisch ohne
+ein ``throws`` im Methodenkopf. Es darf aber ein ``try`` und 
+``catch`` erstellt werden und es darf auch explizit eine Exception
+mit ``throw`` geworfen werden. Im Gegensatz zu checked Exceptions
+muss hierzu aber kein ``throws`` im Methodenkopf deklariert werden.
 
 ---
 Siehe OOP6 S.23
