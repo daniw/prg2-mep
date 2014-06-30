@@ -4,7 +4,7 @@
 
 [Zurück](400threads.md)
 
-#### Bsiepiel mit Producer und Consumer
+#### Beispiel mit Producer und Consumer
 
 ##### Stock
 ```java
