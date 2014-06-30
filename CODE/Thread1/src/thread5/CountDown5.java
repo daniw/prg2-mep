@@ -1,6 +1,6 @@
 package thread5;
 
-public class CountDown5
+public class CountDown5 implements Runnable
 {
 
     private int counter = 0;

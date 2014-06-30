@@ -1,13 +1,13 @@
 package thread1variable;
 
-public class CountDownVariable extends Thread
+public class CountDown1Variable extends Thread
 {
 
     private int counter = 0;
     private short id;
     private int interval;
 
-    public CountDownVariable(int value, short newId, int interv)
+    public CountDown1Variable(int value, short newId, int interv)
     {
         super();
         if (value > 0)
