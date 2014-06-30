@@ -23,5 +23,5 @@ sed -i -e 's/.md/.md.html/g' -e 's/README/index/g' html/whereis.md.html
 pandoc -s fragen.md > html/fragen.md.html
 sed -i -e 's/.md/.md.html/g' -e 's/README/index/g' html/fragen.md.html
 
-for i in [0-9]*/*.md; do pandoc -s $i > html/$i.html; sed -i -e 's/.md/.md.html/g' -e 's/README/index/g' html/$i.html; done
+for i in [0-9]*/*.md; do pandoc -s $i > html/$i.html; sed -i -e 's/.md/.md.html/g' -e 's/README/index/g' -e 's/..\/fig/..\/..\/fig/g' html/$i.html; done
 

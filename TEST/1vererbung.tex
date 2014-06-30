@@ -1,0 +1,66 @@
+\newpage
+\section{Vererbung}
+
+\begin{enumerate}
+    \item Benennen Sie (a) und (b): Java erlaubt für (a) nur die 
+        einfache Vererbung. Für (b) gilt diese Einschränkung nicht.
+    \item Erläutern Sie, wozu man abstrakte Klasen verwendet.
+        Nennen Sie was man bei der Instantiierung eines Objektes einer 
+        abstrakten Klasse beachten muss.
+    \item Erstellen Sie eine \verb?public? abstrakte Methode mit dem 
+        Namen \verb?hello? welche einen \verb?String? zurückgibt und
+        keine Parameter hat.
+        Was bewirkt diese abstrakte Mehtode für die Klasse?
+    \item Erstellen Sie ein \verb?Interface? mit dem Namen 
+        \verb?MyInterface?. Dieses hat  nur eine Methode \verb?hello? 
+        welche einen \verb?String? zurückgibt und keine Parameter annimmt.
+        Was können Sie über die Sichtbarkeit der Methode \verb?hello()?
+        sagen, wenn keine Zugriffsmodifikatoren (\verb?public?, 
+        \verb?private?, ...) angegeben werden?
+    \item OFFENE FRAGE
+    \item Nennen Sie je zwei Unterschiede zwischen
+        \begin{enumerate}[label=(\alph*)]
+            \item Konkreten Klassen und abstrakten Klassen
+            \item Abstrakten Klassen und Interfaces
+        \end{enumerate}
+    \item Zeigen Sie wie die folgenden Vererbungen zu implementieren sind.
+        \begin{enumerate}[label=(\alph*)]
+            \item Das \verb?Interface? \verb?D? erbt von \verb?A, B, C?.
+                Notieren Sie die relevante Code-Zeile. Sind \verb?A, B, C?
+                Klassen oder Interfaces?
+            \item Die Klasse \verb?X? soll von \verb?Y? erben und \verb?Z?
+                implmentieren. Notieren Sie die relevante Code-Zeile.
+                Sind \verb?Y, Z? jeweils Klassen oder Interfaces?
+            \item Erstellen Sie zu den Teilaufgaben (a) und (b) je ein 
+                entsprechendes Klassendiagramm.
+        \end{enumerate}
+    \item Die Methode \verb?hello()? der Klasse \verb?A?, welche 
+        \verb?public? ist und einen \verb?String? zurückgibt, soll 
+        \begin{enumerate}[label=(\alph*)] 
+            \item in der Klasse \verb?B? überschrieben werden. Die 
+                Implementierungen können Sie jeweils selber definieren.
+            \item überladen werden mit einer Methode die einen Parameter
+                vom Typ \verb?String? annimmt und einer Methode welche
+                zwei Parameter vom Typ \verb?String? annimmt.
+        \end{enumerate}
+    \item Die Klasse \verb?Enzo? erbt von \verb?Ferrari? und diese 
+         erbt von \verb?Auto?.
+        \begin{enumerate}[label=(\alph*)]
+            \item Substituieren Sie ein Auto mit einem Ferrari.
+            \item Eine Klasse \verb?Fiat? erbt von \verb?Auto? und es 
+                ist die folgende Zeile gegeben: \\\\
+                \verb?Auto a = new Ferrari();?\\\\
+                Weisen Sie nun einem \verb?Fiat b? das \verb?Auto a? zu 
+                mittels eines Casts. Was gilt es hier zu beachten bezüglich 
+                der Kompilier- bzw. Laufzeit?
+        \end{enumerate}
+    \item NOPE
+    \item 
+        \begin{enumerate}[label=(\alph*)]
+            \item Erklären Sie was die Methode \verb?toString()? macht 
+                und welche Klasse diese definiert.
+            \item Erstellen Sie eine Klasse \verb?A? welche die Methode
+                \verb?toString()? so verändert, dass diese 
+                \verb?"Java ist auch nur eine Insel"? zurückgibt.
+        \end{enumerate}
+\end{enumerate}
