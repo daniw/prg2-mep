@@ -6,7 +6,7 @@
 
 * [Sie kennen Java spezifische Eigenschaften der Vererbung.](101vererbung.md)
 * [Sie verstehen das Konzept von abstrakten Klassen und können diese einsetzen.](102vererbung.md)
-* [Sie verstehen das Konzept von abstrakten Methoden und können dieseeinsetzen.](103vererbung.md)
+* [Sie verstehen das Konzept von abstrakten Methoden und können diese einsetzen.](103vererbung.md)
 * [Sie können ein Java Interface definieren.](104vererbung.md)
 * [Sie können ein Java Interface in abgeleiteten Klassen implementieren.](105vererbung.md)
 * [Sie kennen Unterschiede zwischen konkreten und abstrakten Klassen sowie zwischen abstrakten Klassen und Interfaces.](106vererbung.md)
