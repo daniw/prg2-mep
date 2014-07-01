@@ -1,2 +1,32 @@
 \newpage
 \section{Ordnung, Gleichheit und Hash}
+\begin{enumerate}
+    \item Nennen Sie jeweils ein Beispiel für natürliche spezielle Ordnung. 
+        Begründen Sie. 
+    \item Welcher Zusammenhang besteht zwischen \verb?equals()? und \verb?compareTo()?? 
+    \item Erstellen Sie eine Klasse, welche das Interface \verb?Comparator? 
+        implementiert und Objekte einer ebenfalls von ihnen erstellten Klasse 
+        vergleichen kann. 
+    \item Implementieren Sie die Methode \verb?equals()? in der folgenden 
+        Klasse. 
+        \begin{lstlisting}
+public class Bike 
+{
+    private String brand;
+    private String model;
+
+    public Bike(String brand, String model) 
+    {
+        this.brand = brand;
+        this.model = model;
+    }
+
+    public boolean equals(Object other)
+    {
+        ...
+    }
+}
+        \end{lstlisting}
+    \item Erläutern Sie drei Punkt des hashCode Contracts und implementieren 
+        Sie die Methode \verb?hashCode()? für die Klasse \verb?Bike?. 
+\end{enumerate}
