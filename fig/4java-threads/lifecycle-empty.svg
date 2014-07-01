@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="23.100cm" height="16.100cm" viewBox="11.950 5.950 35.050 22.050"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="12.000" y="6.000" width="4.000" height="2.050" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="12.000" y="6.000" width="4.000" height="2.050" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="12.000" y="13.000" width="4.000" height="2.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="12.000" y="13.000" width="4.000" height="2.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="31.000" y="13.000" width="4.000" height="2.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="13.000" width="4.000" height="2.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="31.000" y="6.000" width="4.000" height="2.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="6.000" width="4.000" height="2.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="21.000" y="6.000" width="4.000" height="2.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="21.000" y="6.000" width="4.000" height="2.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="12.000" y="19.000" width="4.000" height="3.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="12.000" y="19.000" width="4.000" height="3.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="31.000" y="19.000" width="4.000" height="3.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="31.000" y="19.000" width="4.000" height="3.000" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="14.000" y1="8.050" x2="14.000" y2="12.513" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="14.000,12.888 13.750,12.388 14.000,12.513 14.250,12.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="14.000,12.888 13.750,12.388 14.000,12.513 14.250,12.388 "/>
+<line x1="14.000" y1="19.000" x2="14.000" y2="15.487" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="14.000,15.112 14.250,15.612 14.000,15.487 13.750,15.612 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="14.000,15.112 14.250,15.612 14.000,15.487 13.750,15.612 "/>
+<line x1="31.000" y1="13.500" x2="16.487" y2="13.500" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="16.112,13.500 16.612,13.250 16.487,13.500 16.612,13.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="16.112,13.500 16.612,13.250 16.487,13.500 16.612,13.750 "/>
+<line x1="16.487" y1="14.500" x2="30.513" y2="14.500" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="16.112,14.500 16.612,14.250 16.487,14.500 16.612,14.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="16.112,14.500 16.612,14.250 16.487,14.500 16.612,14.750 "/>
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="30.888,14.500 30.388,14.750 30.513,14.500 30.388,14.250 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="30.888,14.500 30.388,14.750 30.513,14.500 30.388,14.250 "/>
+<line x1="33.000" y1="15.000" x2="33.000" y2="18.513" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="33.000,18.888 32.750,18.388 33.000,18.513 33.250,18.388 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="33.000,18.888 32.750,18.388 33.000,18.513 33.250,18.388 "/>
+<line x1="31.000" y1="20.500" x2="16.487" y2="20.500" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="16.112,20.500 16.612,20.250 16.487,20.500 16.612,20.750 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="16.112,20.500 16.612,20.250 16.487,20.500 16.612,20.750 "/>
+<line x1="31.000" y1="15.000" x2="16.470" y2="18.875" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="16.108,18.971 16.527,18.601 16.470,18.875 16.656,19.084 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="16.108,18.971 16.527,18.601 16.470,18.875 16.656,19.084 "/>
+<line x1="33.000" y1="13.000" x2="33.000" y2="8.487" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="33.000,8.112 33.250,8.612 33.000,8.487 32.750,8.612 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="33.000,8.112 33.250,8.612 33.000,8.487 32.750,8.612 "/>
+<line x1="31.000" y1="13.000" x2="25.374" y2="8.312" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="25.086,8.072 25.630,8.200 25.374,8.312 25.310,8.584 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="25.086,8.072 25.630,8.200 25.374,8.312 25.310,8.584 "/>
+<line x1="21.000" y1="8.000" x2="16.344" y2="12.656" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="16.079,12.921 16.256,12.391 16.344,12.656 16.609,12.744 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="16.079,12.921 16.256,12.391 16.344,12.656 16.609,12.744 "/>
+</svg>
